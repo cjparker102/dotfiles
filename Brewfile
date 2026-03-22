@@ -1,4 +1,5 @@
 tap "hashicorp/tap"
+tap "romkatv/powerlevel10k"
 # General-purpose data compression with high compression ratio
 brew "xz"
 # Official Amazon AWS command-line interface
@@ -9,6 +10,8 @@ brew "gh"
 brew "httpie"
 # Manage multiple Node.js versions
 brew "nvm"
+# Theme for zsh
+brew "powerlevel10k"
 # Python version management
 brew "pyenv"
 # Terraform
