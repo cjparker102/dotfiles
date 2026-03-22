@@ -21,3 +21,4 @@ cask "iterm2"
 cask "postman"
 # Open-source code editor
 cask "visual-studio-code"
+vscode "anthropic.claude-code"
